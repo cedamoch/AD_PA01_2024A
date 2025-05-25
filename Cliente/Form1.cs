@@ -1,4 +1,11 @@
-﻿using System;
+﻿//******************************************************
+// Practica 07
+// César Morocho
+// Fecha de realización: 21/05/2025
+// Fecha de entrega: 28/05/2025
+// ***************************************************************
+
+using System;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
